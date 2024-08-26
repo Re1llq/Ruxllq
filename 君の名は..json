@@ -1,0 +1,39 @@
+{
+  "name": "DateNight-Themed Custom Enmity (Image Enhanced with Font Colors)",
+  "description": "A refined theme inspired by a date night vibe with font colors matching the image aesthetic.",
+  "authors": [
+    {
+      "name": "re1llq",
+      "id": "878984783298977822"
+    }
+  ],
+  "background": {
+    "url": "https://x.gd/LwrYX",
+    "color": "#1E2A38",
+    "alpha": 0.6,
+    "blur": 0.5
+  },
+  "semanticColors": {
+    "HEADER_PRIMARY": "#D4A4C8",
+    "HEADER_SECONDARY": "#AFC5D9",
+    "TEXT_NORMAL": "#F0D9A3",
+    "TEXT_PRIMARY": "#E8C2CF",
+    "TEXT_MUTED": "#B6C1CC",
+    "INTERACTIVE_NORMAL": "#D4A4C8",
+    "INTERACTIVE_HOVER": "#C394AE",
+    "INTERACTIVE_ACTIVE": "#B282A2",
+    "BACKGROUND_PRIMARY": "#121223",
+    "BACKGROUND_SECONDARY": "#1E2A38",
+    "BACKGROUND_FLOATING": "#243945",
+    "BACKGROUND_ACCENT": "#2F4551",
+    "TEXT_LINK": "#F0D9A3",
+    "TEXT_DANGER": "#E57373"
+  },
+  "rawColors": {
+    "PRIMARY_500": "#D4A4C8",
+    "PRIMARY_200": "#AFC5D9",
+    "PRIMARY_300": "#F0D9A3",
+    "PRIMARY_600": "#C394AE",
+    "PRIMARY_800": "#B282A2"
+  }
+}
